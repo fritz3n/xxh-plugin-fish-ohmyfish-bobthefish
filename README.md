@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://github.com/oh-my-fish/oh-my-fish">Oh My Fish</a> plugin for <a href="https://github.com/xxh/xxh-shell-fish">xxh-shell-fish</a>.
+<a href="https://github.com/oh-my-fish/oh-my-fish">Oh My Fish</a> plugin for <a href="https://github.com/xxh/xxh-shell-fish">xxh-shell-fish</a> with the <a href="https://github.com/oh-my-fish/theme-bobthefish">bobthefish theme</a>.
 </p>
 
 <p align="center">  
